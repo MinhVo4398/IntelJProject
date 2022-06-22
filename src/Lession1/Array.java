@@ -3,7 +3,7 @@ package Lession1;
 import org.testng.annotations.Test;
 
 /*
-Find the max number of Array
+Find the sum and avarage of Array
  */
 public class Array {
     int[] number = {5,8,15,60,10};
